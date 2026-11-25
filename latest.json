@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "fecha": "2026-11-24",
-  "descarga": "https://github.com/Sleepy3145/hampik-actualizaciones/releases/download/v1.4.2/Hampik-Setup-1.4.2.exe",
+  "descarga": "https://github.com/Sleepy3145/hampik-actualizaciones/releases/download/v1.4.3/Hampik-Setup-1.4.3.exe",
   "novedades": [
-    "Actualiazcion de datos"
+    "Reorganizacion"
   ]
 }
