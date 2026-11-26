@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "fecha": "2026-11-25",
-  "descarga": "https://github.com/Sleepy3145/hampik-actualizaciones/releases/download/v1.6.0/Hampik-Setup-1.6.0.exe",
+  "descarga": "https://github.com/Sleepy3145/hampik-actualizaciones/releases/download/v1.6.1/Hampik-Setup-1.6.1.exe",
   "novedades": [
-    "graficas y datos"
+    "Cambios Necesarios y Solucion de problemas"
   ]
 }
